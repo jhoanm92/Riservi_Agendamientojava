@@ -29,7 +29,7 @@ Este proyecto utiliza las siguientes tecnologías:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [<URL_DEL_REPOSITORIO>](https://github.com/jhoanm92/Riservi_Agendamientojava)
    cd agendas-api
    ```
    
